@@ -2,6 +2,8 @@
 
 This is the first project from The Odin Project updated curriculum (as of September, 28, 2021), related to the new HTML/CSS lessons.
 We are asked to do a homepage from a design provided in the corresponding section, along with some "specifications" towards styles.
+The lessons haven't covered responsive design so far, so the page could display with some overflows in monitors with smaller resolutions
+than mine.
 
 
 - 10/3/2021 - Finished the project. Commments along the commits, I'm trying to keep READMEs as simple as possible.
